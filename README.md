@@ -3,7 +3,7 @@ Hello! I'm David, a software analyst and developer in training. ✍️<br>Passio
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxviddp) 
+[[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxviddp) ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,python,java,git,github,css,html,javascript,mui,postgresql,mysql,postman&theme=dark&perline=7)](https://skillicons.dev)
