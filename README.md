@@ -6,7 +6,7 @@ Hello! I'm David, a software analyst and developer in training. ✍️<br>Passio
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxviddp) 
 
 # 💻 Tech Stack:
-(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
+[!My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DavidDipi&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DavidDipi&theme=onedark&hide_border=false)<br/>
