@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hello! I'm David, a software analyst and developer. ✍️<br>Passionate about creating innovative solutions. 👍<br>Constantly learning and exploring new technologies. 💻<br>Open to collaborations and exciting projects. 🫡<br>Connect with me!
+# Hi! I'm David
+<br>
+<h2>About me 💫</h2>
+
+I'm a software analyst and developer. ✍️<br>Passionate about creating innovative solutions. 👍<br>Constantly learning and exploring new technologies. 💻<br>Open to collaborations and exciting projects. 🫡<br>Connect with me!
 
 
 ## 🌐 Socials:
